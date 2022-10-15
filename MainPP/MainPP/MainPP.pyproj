@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>256cc38b-5588-407b-9b1f-dfe24fe7a402</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>MainPP.py</StartupFile>
+    <StartupFile>CopyFile.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="MainPP.py" />
+    <Compile Include="CopyFile.py" />
     <Compile Include="testCompress.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
